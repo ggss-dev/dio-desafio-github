@@ -6,5 +6,3 @@
 - Git
 - Github
 
-## Como utlizar 🥇
-- Basta clonar o repositório
